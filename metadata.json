@@ -1,0 +1,5 @@
+{
+  "name": "N-Dimensional Arrow Visualizer",
+  "description": "An interactive tool for visualizing N-dimensional coordinates and rotations using vertical arrows. Includes a dedicated 4D rotation engine and Gemini-powered high-dimensional reasoning assistant.",
+  "requestFramePermissions": []
+}
